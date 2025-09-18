@@ -38,3 +38,11 @@ venv\Scripts\activate      # Windows
 
 # Install dependencies
 pip install -r requirements.txt
+
+PDF-Parser/
+├── app.py                  # Streamlit app
+├── pdf_parser.py           # Core parsing logic
+├── requirements.txt        # Dependencies
+├── Images/                 # Extracted images
+└── README.md
+

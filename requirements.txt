@@ -1,2 +1,5 @@
+streamlit
 pdfplumber
-fitz
+pillow
+pandas
+PyMuPDF

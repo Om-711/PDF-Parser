@@ -39,6 +39,9 @@ venv\Scripts\activate      # Windows
 # Install dependencies
 pip install -r requirements.txt
 
+# Run the program
+streamlit run app.py
+
 PDF-Parser/
 ├── app.py                  # Streamlit app
 ├── pdf_parser.py           # Core parsing logic

@@ -36,7 +36,7 @@ if uploaded_file is not None:
         if page_data:
             st.subheader(f"Page {page_num}")
 
-            # img_width = st.slider("Image Width", min_value=200, max_value=800, value=400, step=50)
+            img_width = st.slider("Image Width", min_value=200, max_value=800, value=400, step=50)
 
             for item in page_data["content"]:
                 if item["type"] == "heading":
@@ -57,3 +57,4 @@ if uploaded_file is not None:
             st.warning("No content detected for this page.")
     else:
         st.error("Failed to parse PDF or no content found.")
+

@@ -46,3 +46,7 @@ PDF-Parser/
 ├── Images/                 # Extracted images
 └── README.md
 
+```
+Photos :
+<img width="1912" height="868" alt="image" src="https://github.com/user-attachments/assets/9fa1e8d1-39d7-4e26-b362-5347d099bcdd" />
+

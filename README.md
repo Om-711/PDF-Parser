@@ -49,4 +49,6 @@ PDF-Parser/
 ```
 Photos :
 <img width="1912" height="868" alt="image" src="https://github.com/user-attachments/assets/9fa1e8d1-39d7-4e26-b362-5347d099bcdd" />
+<img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/2292e078-ae34-4cea-b193-9386ecbb2116" />
+
 
